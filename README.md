@@ -2,6 +2,10 @@
 
 API REST para gerenciamento de agendamentos com autenticação JWT.
 
+## Documentação da API
+
+![Swagger](docs/images/swagger.png)
+
 ## Tecnologias
 
 - Java 21 + Spring Boot 4
