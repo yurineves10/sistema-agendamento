@@ -4,7 +4,7 @@ API REST para gerenciamento de agendamentos com autenticação JWT.
 
 ## Documentação da API
 
-![Swagger](docs/images/swagger.png)
+![Swagger](https://raw.githubusercontent.com/yurineves10/sistema-agendamento/main/docs/images/swagger.png)
 
 ## Tecnologias
 
